@@ -7,7 +7,7 @@
 - TailwindCSS
 
 # Sumber Referensi
-- react.dev
+- https://react.dev/
 
 # Deployed dengan
-- netlify.com
+- https://www.netlify.com/
